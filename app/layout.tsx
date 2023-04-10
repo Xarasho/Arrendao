@@ -4,7 +4,7 @@ import {Nunito} from 'next/font/google'
 import './globals.css'
 
 export const metadata = {
-  title: 'Departamentos y alojamientos en Arrendao - Arrendao',
+  title: 'Homes & Condo Rentals - Arrendao',
   description: 'Arrendao Real Estate',
 }
 
